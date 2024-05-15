@@ -1,4 +1,4 @@
-# [DATA-SCRAPER]
+# DATA-SCRAPER
 ## A Web scraping sistem created with Scrapy framework.
 ### The system send a request and scrap the [Amazon](https://www.amazon.com) and [Mercado Livre](https://www.mercadolivre.com.br) sites.
 
